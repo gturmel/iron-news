@@ -1,3 +1,9 @@
-h1 {
-  color: #ff0000;
+nav {
+  background-color: #888888;
+  padding: auto;
+}
+
+section {
+  background-color: #d3d3d3;
+  margin: auto;
 }
